@@ -102,8 +102,7 @@
             this.algocombo.FormattingEnabled = true;
             this.algocombo.Items.AddRange(new object[] {
             "FCFS",
-            "SJF",
-            "RR"});
+            "SJF"});
             this.algocombo.Location = new System.Drawing.Point(184, 149);
             this.algocombo.Name = "algocombo";
             this.algocombo.Size = new System.Drawing.Size(121, 21);
